@@ -1,5 +1,17 @@
 ## SD Interface Creditsafe Releases
 
+### 2.0.1
+
+#### Enhancements
+
+- Telemetry was added to log when the credit report was checked.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
 ### 2.0.0
 
 #### Enhancements
